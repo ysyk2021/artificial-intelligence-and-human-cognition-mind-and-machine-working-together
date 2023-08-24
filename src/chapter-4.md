@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Human Cognition
-========================================
 
 Benefits of AI in Cognitive Processes
 -------------------------------------

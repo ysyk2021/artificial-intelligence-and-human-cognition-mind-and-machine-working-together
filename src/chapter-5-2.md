@@ -1,5 +1,3 @@
-Healthcare and Rehabilitation
-========================================================================
 
 Artificial intelligence (AI) has the potential to transform healthcare and rehabilitation by providing personalized and adaptive solutions that improve patient outcomes and quality of life. In this chapter, we will explore the applications of AI in healthcare and rehabilitation, including diagnosis and treatment, patient monitoring, and rehabilitation.
 

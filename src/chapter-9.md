@@ -1,5 +1,3 @@
-Chapter 9: Case Studies of AI in Human Cognition
-================================================
 
 Successful Implementations of AI in Different Cognitive Fields
 --------------------------------------------------------------

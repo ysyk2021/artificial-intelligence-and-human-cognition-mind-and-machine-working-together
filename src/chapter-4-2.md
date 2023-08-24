@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Cognitive Processes
-=================================================================================================
 
 Artificial intelligence (AI) has the potential to significantly augment human cognitive processes, but there are also challenges and limitations to consider. In this chapter, we will explore some of the challenges and limitations of AI in cognitive processes.
 

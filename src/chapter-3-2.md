@@ -1,5 +1,3 @@
-Theories of Learning and Memory
-============================================================================
 
 Learning and memory are essential components of human cognition. In this chapter, we will explore fundamental theories of learning and memory in cognitive science and psychology and how they relate to artificial intelligence (AI).
 

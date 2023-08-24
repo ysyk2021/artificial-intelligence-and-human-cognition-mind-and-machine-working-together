@@ -1,5 +1,3 @@
-Ethical Considerations
-============================================================================================
 
 As the use of artificial intelligence (AI) in human cognition becomes more widespread, it is important to consider the ethical implications of these technologies. In this chapter, we will explore some of the ethical considerations related to AI in human cognition.
 

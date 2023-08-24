@@ -1,5 +1,3 @@
-Chapter 6: Economic Implications of AI in Human Cognition
-=========================================================
 
 The integration of artificial intelligence (AI) into human cognition has significant economic implications. While AI has the potential to generate cost savings and improve efficiency, it also raises questions about job creation and training needs.
 

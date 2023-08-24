@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Cognitive Solutions
-=========================================
 
 Educational and Training Applications
 -------------------------------------

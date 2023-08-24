@@ -1,5 +1,3 @@
-Benefits of AI in Cognitive Processes
-===============================================================================
 
 Artificial intelligence (AI) has the potential to significantly benefit human cognitive processes, improving our ability to solve complex problems and make informed decisions. In this chapter, we will explore some of the benefits of using AI in cognitive processes.
 

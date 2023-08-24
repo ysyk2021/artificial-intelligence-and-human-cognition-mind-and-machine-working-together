@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial Intelligence (AI) and human cognition are two fields that have traditionally been viewed as distinct from one another. However, recent advances in AI and cognitive science have demonstrated the potential for these two fields to work together in a complementary way to unlock new insights into the nature of human cognition and intelligence.
 

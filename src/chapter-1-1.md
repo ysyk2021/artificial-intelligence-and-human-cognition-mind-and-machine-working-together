@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Human Cognition
-================================================================================
 
 Artificial intelligence (AI) is the field of computer science that aims to create intelligent machines that can perform tasks that typically require human intelligence, such as recognizing speech, making decisions, and solving problems. Human cognition, on the other hand, refers to the mental processes involved in perception, thinking, and learning.
 

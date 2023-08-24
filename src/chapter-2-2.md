@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) is a rapidly developing field with diverse approaches and applications. In this chapter, we will provide an overview of the main types of AI and their fundamental characteristics.
 

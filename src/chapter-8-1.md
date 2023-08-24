@@ -1,5 +1,3 @@
-Emerging Trends and Future Prospects
-=================================================================================
 
 As the field of artificial intelligence (AI) continues to evolve, it is clear that AI will play an increasingly important role in human cognition. In this chapter, we will explore some of the emerging trends and future prospects for AI and human cognition.
 

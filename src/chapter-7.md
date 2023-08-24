@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Issues Related to AI in Human Cognition
-====================================================================
 
 The integration of artificial intelligence (AI) into human cognition raises a range of ethical and legal issues. As AI becomes more integrated into our lives, it is important to consider these issues and ensure that we are using AI in an ethical and responsible way.
 

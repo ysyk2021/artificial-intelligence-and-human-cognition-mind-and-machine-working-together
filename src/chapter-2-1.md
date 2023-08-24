@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial intelligence (AI) is the field of computer science that aims to create intelligent machines that can perform tasks that typically require human intelligence. In this chapter, we will explore the history of AI and its fundamental components.
 

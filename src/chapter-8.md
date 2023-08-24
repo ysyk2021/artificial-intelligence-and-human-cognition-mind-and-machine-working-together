@@ -1,5 +1,3 @@
-Chapter 8: Future of AI and Human Cognition
-===========================================
 
 Emerging Trends and Future Prospects
 ------------------------------------

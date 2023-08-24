@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) has been rapidly evolving over the past few decades, with significant advancements in machine learning techniques. In this chapter, we will provide an overview of the fundamental concepts and techniques of machine learning and their applications within AI.
 

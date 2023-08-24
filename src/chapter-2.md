@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 To understand the relationship between artificial intelligence (AI) and human cognition, it is important to have a solid understanding of the fundamentals of AI. In this chapter, we will explore the history of AI, the types of AI, and some machine learning techniques commonly used in AI systems.
 

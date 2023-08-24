@@ -1,5 +1,3 @@
-Chapter 3: Cognitive Science and Psychology
-===========================================
 
 Cognitive science and psychology play a critical role in understanding the relationship between artificial intelligence (AI) and human cognition. By studying how the human mind works, we can develop better AI systems that work more seamlessly with our natural cognitive processes.
 

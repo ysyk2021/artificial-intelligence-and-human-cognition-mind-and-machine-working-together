@@ -1,5 +1,3 @@
-Legal Framework
-=====================================================================================
 
 As the use of artificial intelligence (AI) in human cognition becomes more widespread, it is important to consider the ethical and legal implications of these technologies. In this chapter, we will explore the legal framework for AI in human cognition, including issues related to data privacy, liability, and intellectual property.
 

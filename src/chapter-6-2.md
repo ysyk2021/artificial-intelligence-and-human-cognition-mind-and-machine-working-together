@@ -1,5 +1,3 @@
-Job Creation and Training Needs
-==========================================================================================
 
 The rise of artificial intelligence (AI) has significant economic implications, particularly when it comes to job creation and training needs. In this chapter, we will explore these implications and what they mean for the future of work.
 

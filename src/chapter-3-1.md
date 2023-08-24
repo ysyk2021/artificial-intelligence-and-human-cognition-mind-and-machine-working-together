@@ -1,5 +1,3 @@
-Understanding Human Cognition
-==========================================================================
 
 Cognitive science and psychology are disciplines that seek to understand human cognition. In this chapter, we will explore the fundamental concepts of cognitive science and psychology and how they relate to artificial intelligence (AI).
 
