@@ -14,3 +14,7 @@ However, the benefits of combining AI and cognitive science are manifold. By lev
 In conclusion, this book aims to explore the intersection of AI and human cognition and how these two fields can work together to enhance our understanding of the human mind and its workings. It will cover various topics related to the application of AI in cognitive science, including language processing, emotion recognition, decision-making, and consciousness. By the end of this book, readers will have gained a solid understanding of how AI and cognitive science can be combined to unlock new insights into the nature of human cognition and intelligence.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
