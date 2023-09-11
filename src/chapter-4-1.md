@@ -1,5 +1,4 @@
-Chapter 4: Benefits of AI in Cognitive Processes
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the numerous benefits that artificial intelligence (AI) brings to cognitive processes, enabling humans to enhance their cognitive abilities and work more effectively alongside intelligent machines. By leveraging the power of AI, individuals can augment their cognitive capacities, improve decision-making, and solve complex problems with greater efficiency.
 

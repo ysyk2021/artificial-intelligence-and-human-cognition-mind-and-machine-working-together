@@ -1,5 +1,4 @@
-Chapter 7: Healthcare and Rehabilitation
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative impact of artificial intelligence (AI) on healthcare and rehabilitation. AI technologies have the potential to revolutionize medical diagnosis, treatment, and patient care, as well as enhance rehabilitation processes for individuals with physical or cognitive impairments.
 

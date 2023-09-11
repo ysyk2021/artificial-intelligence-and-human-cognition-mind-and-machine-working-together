@@ -1,5 +1,4 @@
-Chapter 9: Educational and Training Applications
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the transformative impact of artificial intelligence (AI) on educational and training applications. AI technologies have the potential to revolutionize traditional learning methods, personalize education, enhance skill development, and provide new opportunities for lifelong learning.
 

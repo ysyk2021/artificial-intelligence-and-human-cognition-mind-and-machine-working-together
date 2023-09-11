@@ -1,5 +1,4 @@
-Chapter 11: Emerging Trends and Future Prospects
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting emerging trends in artificial intelligence (AI) and human cognition and discuss their potential impact on various domains. These trends signify the continuous evolution of AI technologies and their integration with human cognition, paving the way for unprecedented possibilities and transforming numerous aspects of our lives.
 

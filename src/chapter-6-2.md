@@ -1,5 +1,4 @@
-Chapter 8: Job Creation and Training Needs
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the impact of artificial intelligence (AI) on job creation and the evolving training needs for individuals to thrive in a world where human cognition and AI technologies work together. As AI continues to advance, it creates new opportunities and challenges in the labor market, necessitating a focus on reskilling and upskilling to adapt to the changing landscape.
 

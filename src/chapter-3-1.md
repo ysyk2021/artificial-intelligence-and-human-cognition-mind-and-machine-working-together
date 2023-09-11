@@ -1,5 +1,4 @@
-Chapter 10: Understanding Human Cognition
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the fascinating field of understanding human cognition and its relationship with artificial intelligence (AI). By studying and emulating human cognitive processes, AI systems can enhance their ability to interact with humans, understand their needs, and work collaboratively towards common goals.
 

@@ -1,5 +1,4 @@
-Chapter 8: Challenges and Limitations of AI in Cognitive Processes
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine the challenges and limitations associated with the use of artificial intelligence (AI) in cognitive processes. While AI offers significant benefits, it is essential to understand and address the potential challenges and limitations to ensure responsible and effective integration.
 
